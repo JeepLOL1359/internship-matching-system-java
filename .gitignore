@@ -1,0 +1,22 @@
+# ===== Java =====
+*.class
+*.jar
+*.war
+*.ear
+
+# ===== NetBeans =====
+/build/
+/dist/
+/nbproject/private/
+/nbproject/Makefile-*
+/nbproject/*.mk
+/.netbeans_automatic_build
+/.netbeans_update_resources
+
+# ===== Logs & temp =====
+*.log
+*.tmp
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
